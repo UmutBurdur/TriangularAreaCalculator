@@ -1,0 +1,23 @@
+
+A
+java:S1659"$Declare "second" on a separate line.(Å«ÚÃ8ÔÀ°©­/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(±€ã¦ùÿÿÿÿ8™ù³©­/
+<
+java:S1659"Declare "u" on a separate line.(Å«ÚÃ8ÔÀ°©­/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(±€ã¦ùÿÿÿÿ8øÔî©­/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(€¬¥í8Òçè©­/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ñ¾Ìþÿÿÿÿ8Ÿžï©­/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(”×ßùüÿÿÿÿ8ÕÔï©­/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(”×ßùüÿÿÿÿ8«¹©­/
+Z	java:S106 "9Replace this use of System.out or System.err by a logger.(ùÛîÏýÿÿÿÿ8óóÜ©­/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ñ¾Ìþÿÿÿÿ8«¹©­/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(€¬¥í8†¹ä©­/
+‚
+java:S1192"eDefine a constant instead of duplicating this literal "Side length should be more than zero" 3 times.(€¬¥í8×é©­/
+@
+java:S1659"#Declare "third" on a separate line.(Å«ÚÃ8ÔÀ°©­/
+0
+java:S1220""Move this file to a named package.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(€¬¥í8×é©­/
+?
+java:S1659""Declare "area" on a separate line.(Å«ÚÃ8¯˜±©­/
